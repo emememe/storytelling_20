@@ -1,28 +1,27 @@
 
 
-# Proyecto HRUN2020 (template): 
+# La aventura de ROB-I 🤖 : 
 
-Nombre del Equipo: 
+Nombre del Equipo: SUPERNENAS
 
 Proyecto (código): 
 
 
 ## Resumen
-
+ROB-i forma parte de una pequeña sociedad de robots capaces de sentir emociones como si fuesen humanos. Nuestro protagonista ha sido elegido para cumplir la misión de ir en busca del creador y acabar con esta realidad que no les hace libres. Recorrerá múltiples aventuras con tu ayuda hasta llegar a un dilema final.
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: ROB-I
 
 
 ### Historia
 
 
 ### Contexto
-
-
+Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, otros no tanto...
 ### Conflicto 
 
 
@@ -35,16 +34,9 @@ Nombre:
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-
-Autores:  
-<!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
--->
-
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :woman: María
+- :woman: Teresa
+- :woman: Rocío
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
