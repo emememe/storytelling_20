@@ -1,5 +1,4 @@
 
-
 # La aventura de ROB-I 🤖 : 
 
 Nombre del Equipo: SUPERNENAS
@@ -18,7 +17,7 @@ Nombre: ROB-I
 
 
 ### Historia
-
+Un grupo de robots forman una pequeña sociedad que sufren las consecuencias de ser humanos. A diferencias de sus otros compañeros robots, ellos sienten y sufren las acciones que se les impone en contra de su voluntad. Esta sociedad elige a uno de ellos para que sea el encargado 
 
 ### Contexto
 Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, otros no tanto...
