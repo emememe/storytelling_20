@@ -17,7 +17,7 @@ Nombre: ROB-I
 
 
 ### Historia
-Un grupo de robots forman una pequeña sociedad que sufren las consecuencias de ser humanos. A diferencias de sus otros compañeros robots, ellos sienten y sufren las acciones que se les impone en contra de su voluntad. Esta sociedad elige a uno de ellos para que sea el encargado 
+Un grupo de robots forman una pequeña sociedad que sufren las consecuencias de ser humanos. A diferencias de sus otros compañeros robots, ellos sienten y sufren las acciones que se les impone en contra de su voluntad. Esta sociedad elige a uno de ellos para que sea el encargado de partir en busca de el Creador y acabar con sus acciones automatizadas. Para ello, ROB-I contará con la ayuda de los humanos que se le crucen por el camino para llegar cuanto antes a su objetivo. ¿Será todo tan fácil? ¿Causará consecuencias? 
 
 ### Contexto
 Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, otros no tanto...
