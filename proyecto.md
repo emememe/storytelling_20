@@ -33,9 +33,9 @@ Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
-- :👩🏽‍🦱: María
-- :👩🏽: Rocío
-- :👩🏼: Teresa
+- 👩🏽‍🦱: María
+- 👩🏽: Rocío
+- 👩🏼: Teresa
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
