@@ -11,7 +11,7 @@ ROB-i forma parte de una pequeña sociedad de robots capaces de sentir emociones
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/43fdddce-2fd1-4cb1-bd71-d106ed3e7601.jpg
+![](https://github.com/mgea/storytelling/blob/master/43fdddce-2fd1-4cb1-bd71-d106ed3e7601.png
  
 Nombre: ROB-I
 
