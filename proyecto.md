@@ -24,10 +24,9 @@ Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, 
 ### Conflicto 
 
 
-- ChatBot: (enlace) 
+- ChatBot: https://t.me/Robiebot_bot
 
-- Banner:  file://unnamed.gif
-
+- Banner:  
 - Storytelling: (enlace) 
 
 ------
