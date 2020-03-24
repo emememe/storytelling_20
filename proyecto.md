@@ -26,7 +26,7 @@ Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, 
 
 - ChatBot: (enlace) 
 
-- Banner:  file:///C:/Users/maria/Desktop/Banner-Pr%C3%A1ctica2-Supernenas/Modelo%20Final.%20Banner-Pr%C3%A1ctica2.html 
+- Banner:  file://unnamed.gif
 
 - Storytelling: (enlace) 
 
