@@ -27,7 +27,7 @@ Sociedad futurista donde conviven humanos y robots. Muchos de ellos autómatas, 
 - ChatBot: https://t.me/Robiebot_bot
 
 - Banner:  https://github.com/emememe/storytelling_20/blob/master/Modelo%20Final.%20Banner-Pr%C3%A1ctica2.zip
-- Storytelling: (enlace) 
+- Storytelling: https://drive.google.com/open?id=1tpbwrZ-9LBjCnvS38PE1zVpeasau9po3
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
